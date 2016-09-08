@@ -11,7 +11,7 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 ## Day 1
 
 ### Ruby3 Typing (Keynote)
-*Matz*
+*Yukihiro "Matz" Matsumoto*
 
 - [summary (japanese)](http://memo.goodpatch.co/2016/09/rubykaigi-2016-report-ruby3-typing/
 )
@@ -49,7 +49,7 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 - [GSoC 2016, spinute](http://www.spinute.org/ruby/gsoc2016/english.html)
 
 ### Isomorphic web programming in Ruby
-*Youchan*
+*Yoh Osaki*
 
 - [slide will be available](http://blog.youchan.org/2016-09-08)
 
