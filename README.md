@@ -78,4 +78,9 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 - [Gilded Rose Web App (Refactoring Example)](https://github.com/testdouble/suture/tree/master/example/rails_app)
 - [NotMySelf/GildedRose](https://github.com/NotMyself/GildedRose)
 
+### How to create bindings 2016
+*Kouhei Sutou*
+
+- [slide](http://slide.rabbit-shocker.org/authors/kou/rubykaigi-2016/)
+
 ## Day 3
