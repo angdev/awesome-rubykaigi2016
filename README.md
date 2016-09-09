@@ -24,6 +24,7 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 ### ErRuby: Ruby on Erlang/OTP
 *Lin Yu Hsiang*
 
+- [slide](https://speakerdeck.com/johnlinvc/erruby-ruby-on-erlang)
 - [johnlinvc/erruby](https://github.com/johnlinvc/erruby)
 
 ### Who reordered my code?!
