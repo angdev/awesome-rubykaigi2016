@@ -5,6 +5,7 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 ## Table of Contents
 
 * [Day 1](#day-1)
+
 	* [Ruby3 Typing (Keynote)](#ruby3-typing-keynote)
 	* [dRuby in the last century](#druby-in-the-last-century)
 	* [ErRuby: Ruby on Erlang/OTP](#erruby-ruby-on-erlangotp)
@@ -18,13 +19,26 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 	* [How to create multiprocess server on Windows with Ruby](#how-to-create-multiprocess-server-on-windows-with-ruby)
 	* [Ups and Downs of Ruby Internationalization](#ups-and-downs-of-ruby-internationalization)
 	* [Scalable job queue system built with Docker](#scalable-job-queue-system-built-with-docker)
+
 * [Day 2](#day-2)
+
 	* [Fearlessly Refactoring Legacy Ruby](#fearlessly-refactoring-legacy-ruby)
 	* [How to create bindings 2016](#how-to-create-bindings-2016)
 	* [Writing A Gameboy Emulator in Ruby](#writing-a-gameboy-emulator-in-ruby)
-	* [Exploring Big Data with rubygems.org Download Data](#exploring-big-data-with-rubygemsorg-download-data)
-	* [Learn Programming Essence from Ruby patches](#learn-programming-essence-from-ruby-patches)
-	* [Web Server Concurrency Architecture](#web-server-concurrency-architecture)
+
+  * [Exploring Big Data with rubygems.org Download Data](#exploring-big-data-with-rubygemsorg-download-data)
+  * [How DSL works on Ruby](#how-dsl-works-on-ruby)
+  * [Learn Programming Essence from Ruby patches](#learn-programming-essence-from-ruby-patches)
+  * [A Nil Device, a Lonely Operator, & a Voyage to the Void Star](#a-nil-device-a-lonely-operator-a-voyage-to-the-void-star)
+  * [Web Server Concurrency Architecture](#web-server-concurrency-architecture)
+  * [Ruby Reference Manual 2016 Autumn](#ruby-reference-manual-2016-autumn)
+  * [Pwrake: Distributed Workflow Engine based on Rake](#pwrake-distributed-workflow-engine-based-on-rake)
+  * [Building maintainable command-line tools with mruby](#building-maintainable-command-line-tools-with-mruby)
+  * [Data Analysis in RUby with daru](#data-analysis-in-ruby-with-daru)
+  * [Modern Black Mages Fighting in the Real World](#modern-black-mages-fighting-in-the-real)
+  * [SciRuby Machine Learning Current Status and Future](#sciruby-machine-learning-current-status-and-future)
+  * [JRuby 9000 Last Year, Today, and Tomorrow](#jruby-9000-last-year-today-and-tomorrow)
+
 * [Day 3](#day-3)
 
 ## Day 1
@@ -68,6 +82,7 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 ### A Tale of Two String Representations
 *Kevin Menard*
 
+- [slide](https://speakerdeck.com/nirvdrum/a-tale-of-two-string-representations)
 - [GSoC 2016, spinute](http://www.spinute.org/ruby/gsoc2016/english.html)
 
 ### Isomorphic web programming in Ruby
@@ -118,6 +133,9 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 
 - [slide](http://www.thagomizer.com/files/ruby_kaigi_2016.pdf)
 
+### How DSL works on Ruby
+*SHIBATA Hiroshi*
+
 ### Learn Programming Essence from Ruby patches
 *Mitsutaka Mimura*
 
@@ -132,11 +150,43 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 - [Ruby Issue (#12142)](https://bugs.ruby-lang.org/issues/12142)
 - [funny-falcon/ruby:st_table_with_array2](https://github.com/funny-falcon/ruby/tree/st_table_with_array2)
 
+### A Nil Device, a Lonely Operator, & a Voyage to the Void Star
+*Eric Weinstein*
+
+- [slide](https://speakerdeck.com/ericqweinstein/a-nil-device-a-lonely-operator-and-a-voyage-to-the-void-star)
+
 ### Web Server Concurrency Architecture
 *Kirk Haines*
 
 - [slide](https://slides.com/wyhaines/web-server-concurrency)
 - [engineyard/rubykaigi2016-concurrency](https://github.com/engineyard/rubykaigi2016-concurrency)
 - [wyhaines/scrawls](https://github.com/wyhaines/scrawls)
+
+### Ruby Reference Manual 2016 Autumn
+*okkez*
+
+### Pwrake: Distributed Workflow Engine based on Rake
+*Masahiro TANAKA*
+
+- [slide](https://speakerdeck.com/masa16tanaka/pwrake-distributed-workflow-engine-based-on-rake)
+
+### Building maintainable command-line tools with mruby
+*Eric Hodel*
+
+### Data Analysis in RUby with daru
+*Sameer Deshmukh*
+
+- [v0dro/daru](https://github.com/v0dro/daru)
+
+### Modern Black Mages Fighting in the Real World
+*Satoshi "moris" Tagomori*
+
+### SciRuby Machine Learning Current Status and Future
+*Kenta Murata*
+
+- [slide](https://speakerdeck.com/mrkn/sciruby-machine-learning-current-status-and-future)
+
+### JRuby 9000 Last Year, Today, and Tomorrow
+*Thomas E Enebo*
 
 ## Day 3
