@@ -22,7 +22,7 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 - [slide](https://speakerdeck.com/m_seki/druby2016)
 
 ### ErRuby: Ruby on Erlang/OTP
-*Johnlin*
+*Lin Yu Hsiang*
 
 - [johnlinvc/erruby](https://github.com/johnlinvc/erruby)
 
@@ -70,5 +70,12 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 * [cookpad/barbeque](https://github.com/cookpad/barbeque)
 
 ## Day 2
+
+### Fearlessly Refactoring Legacy Ruby
+*Justin Searls*
+
+- [testdouble/suture; A Ruby gem that helps you refactor your legacy code](https://github.com/testdouble/suture)
+- [Gilded Rose Web App (Refactoring Example)](https://github.com/testdouble/suture/tree/master/example/rails_app)
+- [NotMySelf/GildedRose](https://github.com/NotMyself/GildedRose)
 
 ## Day 3
