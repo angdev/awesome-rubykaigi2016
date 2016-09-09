@@ -43,6 +43,8 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 ### Play with GLSL on OpenFrameworks
 *蒼時弦也*
 
+- [Play GLSL on mruby with OpenFrameworks](https://speakerdeck.com/elct9620/play-glsl-on-mruby-with-openframeworks)
+
 ### A Tale of Two String Representations
 *Kevin Menard*
 
