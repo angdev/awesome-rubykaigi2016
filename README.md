@@ -86,6 +86,11 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 
 - [slide](http://slide.rabbit-shocker.org/authors/kou/rubykaigi-2016/)
 
+### Writing A Gameboy Emulator in Ruby
+*Colby Swandale*
+
+- [colby-swandale/waterfoul](https://github.com/colby-swandale/waterfoul)
+
 ### Exploring Big Data with rubygems.org Download Data
 *Aja Hammerly*
 
