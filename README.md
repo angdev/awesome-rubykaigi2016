@@ -52,6 +52,9 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 *Yoh Osaki*
 
 - [slide will be available](http://blog.youchan.org/2016-09-08)
+- [youchan/hyalite](https://github.com/youchan/hyalite)
+
+  This is ruby virtual DOM implementation using opal. It is inspired by react.js.
 
 ### Unifying Fixnum and Bignum into Integer
 *Tanaka Akira*
