@@ -113,4 +113,10 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 - [Ruby Issue (#12142)](https://bugs.ruby-lang.org/issues/12142)
 - [funny-falcon/ruby:st_table_with_array2](https://github.com/funny-falcon/ruby/tree/st_table_with_array2)
 
+### Web Server Concurrency Architecture
+
+- [slide](https://slides.com/wyhaines/web-server-concurrency)
+- [engineyard/rubykaigi2016-concurrency](https://github.com/engineyard/rubykaigi2016-concurrency)
+- [wyhaines/scrawls](https://github.com/wyhaines/scrawls)
+
 ## Day 3
