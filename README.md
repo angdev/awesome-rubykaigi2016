@@ -25,7 +25,6 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 	* [Fearlessly Refactoring Legacy Ruby](#fearlessly-refactoring-legacy-ruby)
 	* [How to create bindings 2016](#how-to-create-bindings-2016)
 	* [Writing A Gameboy Emulator in Ruby](#writing-a-gameboy-emulator-in-ruby)
-
   * [Exploring Big Data with rubygems.org Download Data](#exploring-big-data-with-rubygemsorg-download-data)
   * [How DSL works on Ruby](#how-dsl-works-on-ruby)
   * [Learn Programming Essence from Ruby patches](#learn-programming-essence-from-ruby-patches)
@@ -88,7 +87,7 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 ### Isomorphic web programming in Ruby
 *Yoh Osaki*
 
-- [slide will be available](http://blog.youchan.org/2016-09-08)
+- [slide](http://rubykaigi.youchan.org/)
 - [youchan/hyalite](https://github.com/youchan/hyalite)
 
   This is ruby virtual DOM implementation using opal. It is inspired by react.js.
@@ -104,9 +103,12 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 ### Ups and Downs of Ruby Internationalization
 *Martin J. Dürst*
 
+* [publication](http://www.sw.it.aoyama.ac.jp/2016/pub/RubyKaigi/)
+
 ### Scalable job queue system built with Docker
 *Takashi Kokubun*
 
+* [slide](https://speakerdeck.com/k0kubun/scalable-job-queue-system-built-with-docker)
 * [cookpad/barbeque](https://github.com/cookpad/barbeque)
 
 ## Day 2
@@ -138,6 +140,8 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 
 ### Learn Programming Essence from Ruby patches
 *Mitsutaka Mimura*
+
+- [slide](https://speakerdeck.com/takkanm/learn-programming-essence-from-ruby-patches)
 
 #### Ruby Interpreter Learning Materials
 
