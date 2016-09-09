@@ -86,4 +86,9 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 
 - [slide](http://slide.rabbit-shocker.org/authors/kou/rubykaigi-2016/)
 
+### Exploring Big Data with rubygems.org Download Data
+*Aja Hammerly*
+
+- [slide](http://www.thagomizer.com/files/ruby_kaigi_2016.pdf)
+
 ## Day 3
