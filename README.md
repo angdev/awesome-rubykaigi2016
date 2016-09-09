@@ -98,4 +98,18 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 
 - [slide](http://www.thagomizer.com/files/ruby_kaigi_2016.pdf)
 
+### Learn Programming Essence from Ruby patches
+*Mitsutaka Mimura*
+
+#### Ruby Interpreter Learning Materials
+
+  - [Walking around the ruby forest more deeply slide](https://speakerdeck.com/yotii23/walking-around-the-ruby-forest-more-deeply)
+  - [ruby/ruby doc/extension.rdoc](https://github.com/ruby/ruby/blob/trunk/doc/extension.rdoc)
+  - [Ruby Under a Microscope](https://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277)
+
+#### Learning from patches
+
+- [Ruby Issue (#12142)](https://bugs.ruby-lang.org/issues/12142)
+- [funny-falcon/ruby:st_table_with_array2](https://github.com/funny-falcon/ruby/tree/st_table_with_array2)
+
 ## Day 3
