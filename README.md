@@ -45,6 +45,13 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
   * [Web Clients for Ruby and What they should be in the future](#web-clients-for-ruby-and-what-they-should-be-in-the-future)
   * [High Tech Seat in mruby](#high-tech-seat-in-mruby)
   * [Deletion Driven Development: Code to delete code!](#deletion-driven-development-code-to-delete-code)
+  * [It's More Fun to Compute](#its-more-fun-to-compute)
+  * [Recent Advances in HTTP and Controlling them using ruby](#recent-advances-in-http-and-controlling-them-using-ruby)
+  * [Optimizing Ruby](#optimizing-ruby)
+  * [Ruby Concurrency compared](#ruby-concurrency-compared)
+  * [Hijacking syscalls with (m)ruby](#hijacking-syscalls-with-mruby)
+  * [Game Development + Ruby = Happiness](#game-development-ruby-happiness)
+  * [Dive into CRuby](#dive-into-cruby)
 
 ## Day 1
 
@@ -220,3 +227,28 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 *Chris Arcand*
 
 - [post](https://chrisarcand.com/talks/deletion-driven-development-code-to-delete-code/)
+
+### It's More Fun to Compute
+*Julian Cheal*
+
+### Recent Advances in HTTP and Controlling them using ruby
+*Kazuho Oku*
+
+### Optimizing Ruby
+*Urabe, Shyouhei*
+
+- [Deoptimization engine #1419](https://github.com/ruby/ruby/pull/1419)
+
+### Ruby Concurrency compared
+*Anil Wadghule*
+
+### Hijacking syscalls with (m)ruby
+*Franck Verrot*
+
+### Game Development + Ruby = Happiness
+*Amir Rajan*
+
+- [slide](http://slides.com/amirrajan/deck)
+
+### Dive into CRuby
+*NARUSE, Yui*
