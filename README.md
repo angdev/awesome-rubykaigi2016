@@ -211,6 +211,8 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 ### Web Clients for Ruby and What they should be in the future
 *Toru Kawamura*
 
+- [tkawa/faraday-hypermedia](https://github.com/tkawa/faraday-hypermedia)
+
 ### High Tech Seat in mruby
 *Yurie Yamane*
 
