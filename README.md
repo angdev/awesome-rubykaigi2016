@@ -24,7 +24,7 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 
 	* [Fearlessly Refactoring Legacy Ruby](#fearlessly-refactoring-legacy-ruby)
 	* [How to create bindings 2016](#how-to-create-bindings-2016)
-	* [Writing A Gameboy Emulator in Ruby](#writing-a-gameboy-emulator-in-ruby)
+  * [Writing A Gameboy Emulator in Ruby](#writing-a-gameboy-emulator-in-ruby)
   * [Exploring Big Data with rubygems.org Download Data](#exploring-big-data-with-rubygemsorg-download-data)
   * [How DSL works on Ruby](#how-dsl-works-on-ruby)
   * [Learn Programming Essence from Ruby patches](#learn-programming-essence-from-ruby-patches)
@@ -39,6 +39,12 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
   * [JRuby 9000 Last Year, Today, and Tomorrow](#jruby-9000-last-year-today-and-tomorrow)
 
 * [Day 3](#day-3)
+
+  * [Ruby Committers vs the World](#ruby-committers-vs-the-world)
+  * [Ruby3x3: How are we going to measure 3x?](#ruby3x3-how-are-we-goint-to-measure-3x)
+  * [Web Clients for Ruby and What they should be in the future](#web-clients-for-ruby-and-what-they-should-be-in-the-future)
+  * [High Tech Seat in mruby](#high-tech-seat-in-mruby)
+  * [Deletion Driven Development: Code to delete code!](#deletion-driven-development-code-to-delete-code)
 
 ## Day 1
 
@@ -194,3 +200,19 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 *Thomas E Enebo*
 
 ## Day 3
+
+### Ruby Committers vs the World
+
+### Ruby3x3: How are we going to measure 3x?
+*Matthew Gaudet*
+
+### Web Clients for Ruby and What they should be in the future
+*Toru Kawamura*
+
+### High Tech Seat in mruby
+*Yurie Yamane*
+
+### Deletion Driven Development: Code to delete code!
+*Chris Arcand*
+
+- [post](https://chrisarcand.com/talks/deletion-driven-development-code-to-delete-code/)
