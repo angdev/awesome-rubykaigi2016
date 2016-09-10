@@ -122,6 +122,7 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 ### Fearlessly Refactoring Legacy Ruby
 *Justin Searls*
 
+- [slide](https://speakerdeck.com/searls/surgical-refactors)
 - [testdouble/suture; A Ruby gem that helps you refactor your legacy code](https://github.com/testdouble/suture)
 - [Gilded Rose Web App (Refactoring Example)](https://github.com/testdouble/suture/tree/master/example/rails_app)
 - [NotMySelf/GildedRose](https://github.com/NotMyself/GildedRose)
@@ -186,6 +187,7 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 ### Data Analysis in RUby with daru
 *Sameer Deshmukh*
 
+- [slide](https://speakerdeck.com/v0dro/data-analysis-in-ruby-with-daru)
 - [v0dro/daru](https://github.com/v0dro/daru)
 
 ### Modern Black Mages Fighting in the Real World
