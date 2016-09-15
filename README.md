@@ -113,6 +113,8 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 ### How to create multiprocess server on Windows with Ruby
 *Ritta Narita*
 
+- [slide](http://www.slideshare.net/RittaNarita/how-to-create-multiprocess-server-on-windows-with-ruby-rubykaigi2016-ritta-narita)
+
 ### Ups and Downs of Ruby Internationalization
 *Martin J. Dürst*
 
@@ -142,6 +144,7 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 ### Writing A Gameboy Emulator in Ruby
 *Colby Swandale*
 
+- [slide](https://speakerdeck.com/colby/making-a-gameboy-emulator-in-ruby)
 - [colby-swandale/waterfoul](https://github.com/colby-swandale/waterfoul)
 
 ### Exploring Big Data with rubygems.org Download Data
@@ -151,6 +154,8 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 
 ### How DSL works on Ruby
 *SHIBATA Hiroshi*
+
+- [slide](http://www.slideshare.net/hsbt/how-dsl-works-on-ruby)
 
 ### Learn Programming Essence from Ruby patches
 *Mitsutaka Mimura*
@@ -183,6 +188,8 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 ### Ruby Reference Manual 2016 Autumn
 *okkez*
 
+- [slide](http://slide.rabbit-shocker.org/authors/okkez/rubykaigi2016/)
+
 ### Pwrake: Distributed Workflow Engine based on Rake
 *Masahiro TANAKA*
 
@@ -190,6 +197,8 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 
 ### Building maintainable command-line tools with mruby
 *Eric Hodel*
+
+- [slide](https://speakerdeck.com/drbrain/building-maintainable-command-line-tools-with-mruby)
 
 ### Data Analysis in RUby with daru
 *Sameer Deshmukh*
@@ -199,6 +208,8 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 
 ### Modern Black Mages Fighting in the Real World
 *Satoshi "moris" Tagomori*
+
+- [slide](http://www.slideshare.net/tagomoris/modern-black-mages-fighting-in-the-real-world)
 
 ### SciRuby Machine Learning Current Status and Future
 *Kenta Murata*
@@ -215,6 +226,8 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 ### Ruby3x3: How are we going to measure 3x?
 *Matthew Gaudet*
 
+- [slide](http://www.slideshare.net/MatthewGaudet/ruby3x3-how-are-we-going-to-measure-3x)
+
 ### Web Clients for Ruby and What they should be in the future
 *Toru Kawamura*
 
@@ -226,6 +239,7 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 ### Deletion Driven Development: Code to delete code!
 *Chris Arcand*
 
+- [slide](https://speakerdeck.com/chrisarcand/deletion-driven-development-code-to-delete-code)
 - [post](https://chrisarcand.com/talks/deletion-driven-development-code-to-delete-code/)
 
 ### It's More Fun to Compute
@@ -234,16 +248,23 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 ### Recent Advances in HTTP and Controlling them using ruby
 *Kazuho Oku*
 
+- [slide](http://www.slideshare.net/kazuho/recent-advances-in-http-controlling-them-using-ruby)
+
 ### Optimizing Ruby
 *Urabe, Shyouhei*
 
+- [slide](https://speakerdeck.com/shyouhei/optimizing-ruby)
 - [Deoptimization engine #1419](https://github.com/ruby/ruby/pull/1419)
 
 ### Ruby Concurrency compared
 *Anil Wadghule*
 
+- [slide](https://speakerdeck.com/anildigital/ruby-concurrency-compared)
+
 ### Hijacking syscalls with (m)ruby
 *Franck Verrot*
+
+- [slide](https://speakerdeck.com/franckverrot/rubykaigi-2016-hijacking-syscalls-with-ruby)
 
 ### Game Development + Ruby = Happiness
 *Amir Rajan*
@@ -252,3 +273,5 @@ A list of awesome RubyKaigi 2016 slides, repositories, blogs.
 
 ### Dive into CRuby
 *NARUSE, Yui*
+
+- [slide](https://speakerdeck.com/naruse/dive-into-cruby)
